@@ -1,0 +1,17 @@
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\bin\Debug\net7.0-windows\Spy's dream.exe
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\bin\Debug\net7.0-windows\Spy's dream.deps.json
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\bin\Debug\net7.0-windows\Spy's dream.runtimeconfig.json
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\bin\Debug\net7.0-windows\Spy's dream.dll
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\bin\Debug\net7.0-windows\Spy's dream.pdb
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\Spy's dream.csproj.AssemblyReference.cache
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\Spy_s_dream.Form1.resources
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\Spy's dream.csproj.GenerateResource.cache
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\Spy's dream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\Spy's dream.AssemblyInfoInputs.cache
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\Spy's dream.AssemblyInfo.cs
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\Spy's dream.csproj.CoreCompileInputs.cache
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\Spy's dream.dll
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\refint\Spy's dream.dll
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\Spy's dream.pdb
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\Spy's dream.genruntimeconfig.cache
+C:\Users\Krake\OneDrive\Рабочий стол\Project curr\Spy's dream\Spy's dream\obj\Debug\net7.0-windows\ref\Spy's dream.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Spy's dream/1.0.0": {
+        "runtime": {
+          "Spy's dream.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spy's dream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
